@@ -230,9 +230,9 @@ const IndexPage = () => {
                 </a>
               </div>
               <div className="content-container">
-                <a href="https://twitter.com/vctr90" target="_blank">
+                <a href="https://twitter.com/victhorivas" target="_blank">
                   <div className="contact-container">
-                    <div className="contact-link">@vctr90</div>
+                    <div className="contact-link">@victhorivas</div>
                     <div className="contact-logo-container">
                       <div className="contact-logo" id="contact-logo-1" />
                     </div>
