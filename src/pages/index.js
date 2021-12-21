@@ -240,9 +240,9 @@ const IndexPage = () => {
                 </a>
               </div>
               <div className="content-container">
-                <a href="https://github.com/vctr90" target="_blank">
+                <a href="https://github.com/rivasvict" target="_blank">
                   <div className="contact-container">
-                    <div className="contact-link">https://github.com/vctr90</div>
+                    <div className="contact-link">https://github.com/rivasvict</div>
                     <div className="contact-logo-container">
                       <div className="contact-logo" id="contact-logo-2" />
                     </div>
